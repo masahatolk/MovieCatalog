@@ -4,4 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="moviecatalog">MovieCatalog</string>
+    <string name="welcome">Добро пожаловать в MovieCatalog</string>
+    <string name="log_in">Войти в аккаунт</string>
+    <string name="register">Зарегистрироваться</string>
 </resources>
