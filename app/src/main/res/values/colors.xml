@@ -13,4 +13,5 @@
     <color name="dark_orange">#DF2800</color>
     <color name="light_orange">#FF6633</color>
     <color name="light_grey">#333333</color>
+    <color name="grey_faded">#999999</color>
 </resources>

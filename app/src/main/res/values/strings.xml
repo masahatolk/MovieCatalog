@@ -5,6 +5,11 @@
     <string name="title_notifications">Notifications</string>
     <string name="moviecatalog">MovieCatalog</string>
     <string name="welcome">Добро пожаловать в MovieCatalog</string>
-    <string name="log_in">Войти в аккаунт</string>
-    <string name="register">Зарегистрироваться</string>
+    <string name="log_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_in">Войти в аккаунт</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enterAccount">Вход в аккаунт</string>
+    <string name="register">Регистрация</string>
 </resources>
